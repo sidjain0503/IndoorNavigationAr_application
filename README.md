@@ -56,5 +56,5 @@ Augmented reality (AR) is a technology that combines virtual and real-world elem
 
 4. UI of Application 
 
-![Img4](../IndoorNavigationAr_application/Images/WhatsApp%20Image%202023-03-21%20at%2009.39.14.jpg)
+![Img4](Images/WhatsApp%20Image%202023-03-21%20at%2009.39.14.jpg)
 
