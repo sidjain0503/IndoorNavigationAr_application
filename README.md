@@ -43,7 +43,7 @@ Augmented reality (AR) is a technology that combines virtual and real-world elem
 
 1. 3D model of Map (MiniMap of Dome 2)
 
-   ![Img1](../IndoorNavigationAr_application/Images/Screenshot%202023-03-21%20093046.png)
+   [Img1](../IndoorNavigationAr_application/Images/Screenshot%202023-03-21%20093046.png)
 
 2. Top View of Map (MiniMap of Dome 2)
 
